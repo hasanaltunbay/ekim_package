@@ -1,7 +1,7 @@
 name: ekim
 description: "A new Flutter extensions project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/hasanaltunbay/ekim_package
 
 environment:
   sdk: '>=3.2.4 <4.0.0'
